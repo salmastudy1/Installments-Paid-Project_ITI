@@ -1,0 +1,1 @@
+This Project utilizes PL/SQL to Calculate the installment amounts and payment dates for clients based on the payment type specified in the contract. The calculated values are then added to installments table.
